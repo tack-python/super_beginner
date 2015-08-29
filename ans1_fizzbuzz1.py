@@ -5,7 +5,7 @@ num = raw_input()
 
 num = int(num)
 
-print "それじゃ", num ,"まで数えるよ！ Enterキーでスタート！"
+print "それじゃ", num, "まで数えるよ！ Enterキーでスタート！"
 raw_input()
 
 def fizzbuzz(i):
